@@ -1,0 +1,13 @@
+{
+    "name": "d-platformer",
+    "dependencies": {
+        "derelict-sdl2": "~>1.9.7",
+        "derelict-gl3": "~>1.0.15"
+    },
+    "configurations": [
+        {
+            "name": "d-platformer",
+            "targetType": "executable"
+        }
+    ]
+}
